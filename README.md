@@ -10,7 +10,7 @@ Telegram bot for physics exam preparation.
 
 ## Setup for Bothost
 
-1. Add this repository to Bothost: https://github.com/ваш-логин/physics-pro100-bot
+1. Add this repository to Bothost: https://github.com/polinakrasko2025-lab/physics-pro100-bot
 2. Set main file: `webhook_handler.py`
 3. Set entry point: `handle_webhook`
 4. Add environment variable: `TELEGRAM_TOKEN`
